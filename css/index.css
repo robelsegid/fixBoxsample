@@ -1,0 +1,25 @@
+.containet{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    
+    
+
+    
+    
+    
+}
+.item{
+    background-color: rgb(104, 123, 139);
+    display: flex,
+    
+
+    
+}
+@media screen and (max-width: 600px) .container { 
+    
+
+}
+    
